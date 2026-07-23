@@ -1,7 +1,12 @@
 # MeritRow - Top 1% Tier-1 Talent Boutique
 
-This repository contains the codebase for the official MeritRow website.
+Official website for MeritRow (`www.meritrow.com`).
 
-## Project Structure
-- `JTBD.rtf` / `Component_final_list_extracted.txt`: Business requirements & JTBD rubric.
-- Source code will be added in upcoming development iterations.
+## Technology Stack
+- **Framework**: React 18 + Vite
+- **Styling**: Vanilla CSS Design Tokens with bespoke dark/light glassmorphism
+- **Icons & Assets**: `lucide-react` + SVG vector graphics
+- **Hosting & Backend**: Cloudflare Pages & Cloudflare Workers (`functions/api/contact.js`)
+
+## Deployment
+Automated deployments via GitHub integration on Cloudflare Pages.
