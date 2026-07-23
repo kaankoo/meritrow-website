@@ -1,8 +1,8 @@
 import { useRef, useState } from 'react';
 import { Award, Briefcase, GraduationCap, ChevronLeft, ChevronRight, CheckCircle2, Star, Sparkles } from 'lucide-react';
-import avatarPm from '../assets/avatar_pm.jpg';
-import avatarComms from '../assets/avatar_comms.jpg';
-import avatarAnalyst from '../assets/avatar_analyst.jpg';
+import avatarPm from '../assets/avatar_pm.svg';
+import avatarComms from '../assets/avatar_comms.svg';
+import avatarAnalyst from '../assets/avatar_analyst.svg';
 import './TalentPool.css';
 
 const TALENT_PROFILES = [
