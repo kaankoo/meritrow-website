@@ -17,9 +17,9 @@ import {
   ChevronRight,
   TrendingDown
 } from 'lucide-react';
-import avatarPm from './assets/avatar_pm_new.jpg';
-import avatarComms from './assets/avatar_comms_new.jpg';
-import avatarAnalyst from './assets/avatar_analyst_new.jpg';
+import avatarPm from './assets/avatar_pm_new.svg';
+import avatarComms from './assets/avatar_comms_new.svg';
+import avatarAnalyst from './assets/avatar_analyst_new.svg';
 import './App.css';
 
 function App() {
